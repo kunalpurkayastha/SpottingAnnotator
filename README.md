@@ -38,6 +38,8 @@ Download Weights -> [CTW](https://1drv.ms/u/s!AimBgYV7JjTlgcdsiFgSz-FHgKepqQ?e=5
 
 Save the weight(s) in "weights" directory
 
+### Run the command
+
 ```
 python demo/demo.py --config-file ${CONFIG_FILE} --input images --output outputs --opts MODEL.WEIGHTS <MODEL_PATH>
 ```
